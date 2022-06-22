@@ -1,2 +1,2 @@
-# portfolio_project
+# portfolio_projects
 Portfolio for Data Analysis
